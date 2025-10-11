@@ -12,6 +12,7 @@ Thank you for reading this paper. To enhance its reproducibility and pioneering 
 
 This work acknowledges the UESD dataset proposed in the paper “Intelligent Recognition of Spacecraft Components from Photorealistic Images Based on Unreal Engine 4.” The dataset partitioning method used in this paper can be saved and downloaded via the following link:
 
-
+Link: https://pan.baidu.com/s/14i61-UR3GMIXrcWgr--RkQ?pwd=NUAA 
+Extraction code: NUAA 
 
 We will gradually open-source additional data and code for everyone to use and learn from. If you find this helpful, please cite “Space-SAM: On-Orbit Real-Time Semantic Segmentation for Space Imaging Objects” in your work.
