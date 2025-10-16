@@ -1,4 +1,4 @@
-# Space-SAM：On-Orbit Real-Time Semantic Segmentation for SpaceImaging Objects.
+# Space-SAM：On-Orbit Real-Time Semantic Segmentation for Space Imaging Objects.
 
 References "Space-SAM：On-Orbit Real-Time Semantic Segmentation for SpaceImaging Objects."
 
@@ -15,4 +15,4 @@ This work acknowledges the UESD dataset proposed in the paper “Intelligent Rec
 Link: https://pan.baidu.com/s/14i61-UR3GMIXrcWgr--RkQ?pwd=NUAA 
 Extraction code: NUAA 
 
-We will gradually open-source additional data and code for everyone to use and learn from. If you find this helpful, please cite “Space-SAM: On-Orbit Real-Time Semantic Segmentation for Space Imaging Objects” in your work.
+We will gradually open-source additional data and code for everyone to use and learn from. If you find this helpful, please cite “Zhao Y, Yang H. Space-SAM: On-Orbit Real-Time Semantic Segmentation for Space Imaging Objects[J]. Advances in Space Research, 2025.” in your work.
